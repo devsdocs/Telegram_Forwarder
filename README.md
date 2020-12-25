@@ -76,6 +76,8 @@ minus (-) sign in the chat ID's of groups and channels. You can add ID's of user
 
 Install the necessary python dependencies by moving to the project directory and running:
 
+`python3 -m venv venv`
+`. ./venv/bin/activate`
 `pip3 install -r requirements.txt`.
 
 This will install all necessary python packages.
